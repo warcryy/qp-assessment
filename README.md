@@ -44,6 +44,9 @@
 - **Method**: POST
 - **Description**: Update inventory status.
 
+## Database File
+Added database .bak file which can be restored on SSMS.
+
 ## Building the Application with Docker
 
 1. Navigate to the project directory:
