@@ -58,4 +58,8 @@ Added database .bak file which can be restored on SSMS.
 3. Once the image is built, you can run the Docker container:
    ```bash
    docker run -p 8086:8086 assessment
-4.The application will be accessible at http://localhost:8086/assesement.
+4. The application will be accessible at http://localhost:8086/assesement.
+   
+5. Also you can see the container on your docker desktop
+![image](https://github.com/warcryy/qp-assessment/assets/95096739/548552cb-2722-4111-9a9b-1725ffa4b9ee)
+
